@@ -44,7 +44,7 @@ p{
 .btn:hover{
     color: white;
     background: rgb(99, 7, 99);
-    transition: 0.3;
+    transition: 0.3s;
 }
 
 .ima{
